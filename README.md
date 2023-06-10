@@ -8,4 +8,4 @@ The game engine was written in Python using Pygame for the GUI, following an obj
 ### Learning 
 ![soccer](https://github.com/olekblok/AI-reinforcement-learning-for-simple-soccer-game-2D/assets/132127130/53554add-3b93-403e-a98e-c894b3c21af7)
 
-The learing ratio is based on number of interacions between ball and players
+The learning ratio is based on number of interacions between ball and players
